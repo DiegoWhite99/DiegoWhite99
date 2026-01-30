@@ -4,7 +4,7 @@
 
 #  Sobre mi :raising_hand_man: 
 
-Soy Diego Castellblanco.
+Soy Diego Castelblanco.
 Me interesa profundamente el mundo de la programación, los sistemas
 y entender cómo funciona la tecnología desde sus cimientos.
 
