@@ -106,16 +106,6 @@ experimentar y construir con criterio propio.
     <!-- GitHub Stats -->
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoWhite99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     
-   <!-- Top Languages -->
-<div align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoWhite99&layout=donut&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    style="border-radius:12px;" 
-  />
-</div>
-
   </a>
   <br/>
   <!-- Streak -->
@@ -152,4 +142,5 @@ Si√©ntete libre de explorar mis repositorios y seguir mi viaje en la construcci√
   </pre>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=10000&pause=1000&color=3165CF&background=18181800&center=true&vCenter=true&width=435&lines=2026)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&duration=10000&pause=1000&color=3165CF&background=18181800&center=true&width=435&lines=2026)](https://git.io/typing-svg)
