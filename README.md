@@ -133,14 +133,14 @@ Siéntete libre de explorar mis repositorios y seguir mi viaje en la construcci�
 
 ---
 
+</div>
+
 <div align="center">
-  <!-- Animación estilo Snake de contribuciones -->
   <img src="https://raw.githubusercontent.com/DiegoWhite99/DiegoWhite99/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <div align="center">
-  <!-- Footer animado estilo cápsula -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" alt="Footer" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=10000&pause=1000&color=34FB27&background=18181800&center=true&vCenter=true&width=435&lines=GRACIAS++......;POR+VISITAR+MI+GIT-HUB....;FORJAMOS+EL+FUTURO+.....)](https://git.io/typing-svg)
