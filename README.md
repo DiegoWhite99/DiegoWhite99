@@ -106,8 +106,16 @@ experimentar y construir con criterio propio.
     <!-- GitHub Stats -->
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoWhite99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     
-    <!-- Top Languages -->
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoWhite99&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&hide_progress=true" alt="Top Languages" />
+   <!-- Top Languages -->
+<div align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoWhite99&layout=donut&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    style="border-radius:12px;" 
+  />
+</div>
+
   </a>
   <br/>
   <!-- Streak -->
@@ -132,8 +140,6 @@ Aquí documenté mis proyectos reales, experimentos y avances en **SMED Technolo
 Siéntete libre de explorar mis repositorios y seguir mi viaje en la construcción de sistemas confiables y escalables.
 
 ---
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DiegoWhite99/DiegoWhite99/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
