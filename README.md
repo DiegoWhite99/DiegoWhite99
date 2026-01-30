@@ -84,12 +84,7 @@ experimentar y construir con criterio propio.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=2000&color=199DD7&background=18181800&center=true&width=435&lines=+--+TOOLS+%2F+TECH+STACK+--)](https://git.io/typing-svg)
 
-## Lenguajes De Programacion ##
-
-<div align="center">
-<p align="right">
-  <img src="img/ced5e020-037f-49b1-afe0-e31ac7b4a15c.png" width="300" style="border-radius:50%;" />
-</p>
+## Lenguajes De Programacion 🧑‍💻 ##
 
 | **Lenguajes** | **Plataformas** | **Herramientas** |**Desarrollo_web** |
 | :---: | :---: | :---: |:---: |
